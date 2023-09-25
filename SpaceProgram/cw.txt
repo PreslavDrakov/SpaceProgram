@@ -1,0 +1,28 @@
+Hello, astronaut!
+I will ask you to enter some details so that i can send you a weather report file.
+In this file you will see for every parameter aggregate data and the data of the most appropriate launch day.
+So let's start!
+Yes
+Please enter a valid file path: 
+You entered a wrong file path!
+If you want to go through the insert details again enter Yes, otherwise just type anything else: 
+Please enter a sender email(note that it should be a gmail account):
+You entered a wrong email format!
+Please enter the password for the email you gave above: 
+Please enter the email address to which we will send the WeatherReport file: 
+You can try again! See you next time, bye!
+Weather Report
+This is the csv file with the WeatherReport.
+Sending email...
+Email sent!
+That is the information you needed! Good luck astronaut!
+We are sorry, but the email was not send!\nCheck if your email and password are correct!
+Authentication failed!\nYou have to make a two-factor verification to your gmail account and create and use a app password!
+There is no data to send a email with!
+Day: {item.Day}, Temperature: {item.Temperature} C, Wind Speed: {item.Wind} m/s, Humidity: {item.Humidity}%, Precipitation: {item.Precipitation}%, Lightning: {(item.Lightning)}, Clouds: {item.Clouds}"
+There are no records in the list!
+Can not create a file!
+Can not create a weather report file!
+Email is not in the correct format!
+File is not found!
+There are no records!

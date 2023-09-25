@@ -1,0 +1,7 @@
+Parameter,Average,Maximum,Minimum,Median,LaunchDay
+Temperature (C),27.33,32,15,29.5,15
+Wind (m/s),6.22,15,1,4.5,2
+Humidity (%),33.89,80,10,27.5,20
+Precipitation (%),6.67,40,0,0,0
+Lightning,,,,,No
+Clouds,,,,,Cirrus
